@@ -37,6 +37,6 @@ Garcia Serrano Carlos Asaf
   <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
-<icon src="res/android/mdpi.png" />
+<icon src="res/android/Programming-icon.png" />
 
 </widget>

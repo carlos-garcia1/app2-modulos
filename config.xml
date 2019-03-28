@@ -22,7 +22,7 @@ Garcia Serrano Carlos Asaf
 <preference name="target-device"  value="universal" />
 <preference name="fullscreen"  value="true" />
 <preference name="android-installLocation" value="auto" />
-<preference name="permissions" valie="INTERNET" />
+<preference name="permissions" value="INTERNET" />
 
 <!--Plugins-->
 <plugin name="cordova-plugin-device" spec="~1.1.4" />
@@ -32,8 +32,8 @@ Garcia Serrano Carlos Asaf
 <!--Para accesar a paginas en internet -->
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
-<allow-intent href="https://*/*"/>
-<acces origin="https://*/*"/>
+<allow-intent href="http://*/*"/>
+<acces origin="http ://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
